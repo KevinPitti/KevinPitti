@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Offensive security, digital forensics, threat monitoring, and Kali Linux usage**
 
-- 📫 How to reach me **kpitti7@hotmail.com | +507 6688-5529**
+- 📫 How to reach me **kpitti7@hotmail.com**
 
 - ⚡ Fun fact **I love Videogames :D**
 
