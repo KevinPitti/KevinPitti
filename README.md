@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Pentesting, advanced Wazuh usage, OSINT, server hardening, and secure network architecture**
 
-- 👯 I’m looking to collaborate on **Proyectos de análisis de vulnerabilidades, pentesting o respuesta a incidentes**
+- 👯 I’m looking to collaborate on **Vulnerability analysis, pentesting or incident response projects**
 
 - 🤝 I’m looking for help with **Advanced implementation of SIEM/EDR solutions and incident response automation**
 
